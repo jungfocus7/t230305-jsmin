@@ -1,4 +1,3 @@
-
 ;(function() {
 var undefined;
 var VERSION = '4.17.15';
